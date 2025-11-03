@@ -231,6 +231,9 @@ footer {
         justify-content: center;
         gap: 15px;
     }
+    section h2{
+    margin-top: 55px;
+    }
 
     #hero h2 {
         font-size: 36px;
@@ -244,4 +247,5 @@ footer {
         grid-template-columns: 1fr;
     }
     
+
 }
